@@ -6,14 +6,25 @@ public class GameMain : MonoBehaviour {
 
     public static GameMain Instance;
 
-	// Use this for initialization
-	void Start ()
+    private void Awake()
     {
         Instance = this;
+    }
+
+    // Use this for initialization
+    void Start ()
+    {
+        
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
 		
 	}
+
+    private void follow()
+    {
+
+    }
 }
