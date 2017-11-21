@@ -13,6 +13,9 @@ public class Player : MonoBehaviour {
 
     public int FuelConsumeRate;
 
+    public int speed;
+    private Rigidbody2D Rb2D;
+
     private void Awake()
     {
         Instance = this;
@@ -21,11 +24,14 @@ public class Player : MonoBehaviour {
     void Start ()
     {
         Fuel = MaxFuel;
+        speed = 0;
+        Rb2D = GetComponent<Rigidbody2D>();
 	}
 	
 	void Update ()
     {
         Fuel -= FuelConsumeRate * Time.deltaTime;
+        speed = (int)(Rb2D.velocity.magnitude * 10);
 	}
 
     public void Jet()
