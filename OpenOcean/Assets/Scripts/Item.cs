@@ -30,6 +30,8 @@ public class Item : MonoBehaviour {
             {
                 Player.Instance.Fuel += Value;
             }
+
+            gameObject.SetActive(false);
         }
     }
 

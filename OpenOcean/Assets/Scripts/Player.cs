@@ -8,7 +8,10 @@ public class Player : MonoBehaviour {
 
     public int Life;
     public int Wealth;
-    public int Fuel;
+    public float MaxFuel;
+    public float Fuel;
+
+    public int FuelConsumeRate;
 
     private void Awake()
     {
@@ -17,13 +20,12 @@ public class Player : MonoBehaviour {
 
     void Start ()
     {
-		
+        Fuel = MaxFuel;
 	}
 	
-	// Update is called once per frame
 	void Update ()
     {
-		
+        Fuel -= FuelConsumeRate * Time.deltaTime;
 	}
 
     public void Jet()
@@ -35,6 +37,8 @@ public class Player : MonoBehaviour {
     {
 
     }
+
+    
 
 
 

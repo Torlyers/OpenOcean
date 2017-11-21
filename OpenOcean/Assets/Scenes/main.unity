@@ -212,6 +212,7 @@ GameObject:
   - component: {fileID: 65914470}
   - component: {fileID: 65914472}
   - component: {fileID: 65914471}
+  - component: {fileID: 65914473}
   m_Layer: 5
   m_Name: MainPanel
   m_TagString: Untagged
@@ -276,6 +277,23 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 65914469}
+--- !u!114 &65914473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 65914469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43788f9a38f4e6346865b3fd59fc58ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wealthText: {fileID: 1668639172}
+  LifeIcons:
+  - {fileID: 1717624762}
+  - {fileID: 1892563511}
+  - {fileID: 943554443}
+  FuelBarFill: {fileID: 560397273}
 --- !u!1001 &121486754
 Prefab:
   m_ObjectHideFlags: 0
@@ -430,7 +448,7 @@ GameObject:
   - component: {fileID: 560397274}
   - component: {fileID: 560397273}
   m_Layer: 5
-  m_Name: Image (1)
+  m_Name: FuelBarFill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1529,7 +1547,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Life: 3
   Wealth: 0
-  Fuel: 3000
+  MaxFuel: 3000
+  Fuel: 0
+  FuelConsumeRate: 10
 --- !u!1 &1306931048
 GameObject:
   m_ObjectHideFlags: 0
@@ -1679,7 +1699,7 @@ GameObject:
   - component: {fileID: 1569132031}
   - component: {fileID: 1569132030}
   m_Layer: 5
-  m_Name: Image
+  m_Name: FuelBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
