@@ -294,6 +294,8 @@ MonoBehaviour:
   - {fileID: 1892563511}
   - {fileID: 943554443}
   FuelBarFill: {fileID: 560397273}
+  LifeOn: {fileID: 21300000, guid: 951709e521469384b8f734d428351e21, type: 3}
+  LifeOff: {fileID: 21300000, guid: 324abaf64677a8d41bf7f9cb73ad659d, type: 3}
 --- !u!1001 &121486754
 Prefab:
   m_ObjectHideFlags: 0
