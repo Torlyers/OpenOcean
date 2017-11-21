@@ -311,7 +311,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4501371897482640, guid: 75d2e0140d43bbc4cbb2366953f61d2a, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -0.36
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 4501371897482640, guid: 75d2e0140d43bbc4cbb2366953f61d2a, type: 2}
       propertyPath: m_LocalRotation.x
@@ -349,8 +349,9 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 390961123}
-  - component: {fileID: 390961124}
   - component: {fileID: 390961125}
+  - component: {fileID: 390961127}
+  - component: {fileID: 390961126}
   m_Layer: 0
   m_Name: GameMain
   m_TagString: Untagged
@@ -371,18 +372,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &390961124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 390961122}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f79ca74f6ea0e78409f09f3cd9479083, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  MainCamera: {fileID: 1834748990}
 --- !u!114 &390961125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -395,6 +384,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   StartPosition: {x: -1.56, y: 5.42, z: 0}
+--- !u!82 &390961126
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 390961122}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 30aada2773f747940bdf89733c71e6cf, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!81 &390961127
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 390961122}
+  m_Enabled: 1
 --- !u!1001 &556560308
 Prefab:
   m_ObjectHideFlags: 0
@@ -1549,7 +1625,7 @@ MonoBehaviour:
   Wealth: 0
   MaxFuel: 3000
   Fuel: 0
-  FuelConsumeRate: 10
+  FuelConsumeRate: 100
 --- !u!1 &1306931048
 GameObject:
   m_ObjectHideFlags: 0
@@ -1909,7 +1985,6 @@ GameObject:
   - component: {fileID: 1834748990}
   - component: {fileID: 1834748989}
   - component: {fileID: 1834748988}
-  - component: {fileID: 1834748987}
   - component: {fileID: 1834748992}
   m_Layer: 0
   m_Name: Main Camera
@@ -1918,13 +1993,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1834748987
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1834748986}
-  m_Enabled: 1
 --- !u!124 &1834748988
 Behaviour:
   m_ObjectHideFlags: 0
