@@ -5,6 +5,8 @@ using UnityEngine;
 public class GameMain : MonoBehaviour {
 
     public static GameMain Instance;
+    public Vector3 StartPosition;
+
 
     private void Awake()
     {
@@ -23,8 +25,5 @@ public class GameMain : MonoBehaviour {
 		
 	}
 
-    private void follow()
-    {
 
-    }
 }

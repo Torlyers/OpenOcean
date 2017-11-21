@@ -4,8 +4,18 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
 
+    public static Player Instance;
 
-	void Start ()
+    public int Life;
+    public int Wealth;
+    public int Fuel;
+
+    private void Awake()
+    {
+        Instance = this;
+    }
+
+    void Start ()
     {
 		
 	}
@@ -15,4 +25,18 @@ public class Player : MonoBehaviour {
     {
 		
 	}
+
+    public void Jet()
+    {
+
+    }
+
+    public void Rotate(bool AngDirec)//1 for clockwise
+    {
+
+    }
+
+
+
+
 }
