@@ -10,6 +10,9 @@ public class MainPanel : MonoBehaviour {
     public List<Image> LifeIcons;
     public Image FuelBarFill;
 
+    public Sprite LifeOn;
+    public Sprite LifeOff;
+
 	// Use this for initialization
 	void Start ()
     {
@@ -21,5 +24,9 @@ public class MainPanel : MonoBehaviour {
     {
         wealthText.text = "$" + Player.Instance.Wealth + "M";
         FuelBarFill.fillAmount = Player.Instance.Fuel / Player.Instance.MaxFuel;
+        if(Player.Instance.Life == 2)
+        {
+            LifeIcons[0].sprite = LifeOff;
+        }
 	}
 }

@@ -14,6 +14,7 @@ public class Player : MonoBehaviour {
     public int FuelConsumeRate;
 
     public int speed;
+    public int DangerSpeed;
     private Rigidbody2D Rb2D;
 
     public float Force;

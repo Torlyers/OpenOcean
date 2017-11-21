@@ -1461,7 +1461,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -819536696
+  randomSeed: 500050865
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4965,6 +4965,7 @@ GameObject:
   - component: {fileID: 1286546289}
   - component: {fileID: 1286546288}
   - component: {fileID: 1286546292}
+  - component: {fileID: 1286546293}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -5080,9 +5081,27 @@ MonoBehaviour:
   Fuel: 0
   FuelConsumeRate: 100
   speed: 0
+  DangerSpeed: 50
   Force: 1
   AngForce: 1
   JetParticle: {fileID: 820578883}
+--- !u!95 &1286546293
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1286546287}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ce11a04fb7ee532488058a37dc5fb118, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1306931048
 GameObject:
   m_ObjectHideFlags: 0
