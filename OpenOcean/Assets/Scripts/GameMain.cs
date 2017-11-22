@@ -42,7 +42,7 @@ public class GameMain : MonoBehaviour {
 
     public void ResetGame()
     {
-        
+        ResetPlayer();
     }
 
     public void ResetPlayer()
@@ -50,9 +50,10 @@ public class GameMain : MonoBehaviour {
         player.gameObject.SetActive(true);
         player.transform.position = StartPosition;
         player.Life -= 1;
+        if (player.Life == 0)
+            player.Life = 3;        
         player.animator.SetInteger("Life", player.Life);
         player.animator.SetBool("isDangerSpeed", false);
-        
     }
 
 }

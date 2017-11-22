@@ -28,5 +28,14 @@ public class MainPanel : MonoBehaviour {
         {
             LifeIcons[0].sprite = LifeOff;
         }
+        else if(Player.Instance.Life == 1)
+        {
+            LifeIcons[1].sprite = LifeOff;
+        }
+        else if(Player.Instance.Life == 3)
+        {
+            LifeIcons[1].sprite = LifeOn;
+            LifeIcons[0].sprite = LifeOn;
+        }
 	}
 }

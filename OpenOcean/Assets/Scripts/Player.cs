@@ -24,6 +24,7 @@ public class Player : MonoBehaviour {
 
     public ParticleSystem JetParticle;
     public Animator animator;
+    public GameObject SpeedUI;
 
     private void Awake()
     {
@@ -105,9 +106,7 @@ public class Player : MonoBehaviour {
     }
 
     public void Crash()
-    {
-        Debug.Log("Crash");
-        StopJet();
+    { 
         gameObject.SetActive(false);
         if (Life > 1)
         {
