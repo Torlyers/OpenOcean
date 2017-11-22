@@ -23,6 +23,7 @@ public class Player : MonoBehaviour {
     private float rotate;
 
     public ParticleSystem JetParticle;
+    public Animator animator;
 
     private void Awake()
     {
@@ -36,6 +37,7 @@ public class Player : MonoBehaviour {
         rotate = 0;
         Rb2D = GetComponent<Rigidbody2D>();
         JetParticle.Simulate(0);
+        animator = GetComponent<Animator>();
         
 	}
 	
@@ -44,6 +46,15 @@ public class Player : MonoBehaviour {
         Fuel -= FuelConsumeRate * Time.deltaTime;
         speed = (int)(Rb2D.velocity.magnitude * 10);
         rotate = gameObject.transform.eulerAngles.z;
+
+        if(speed > DangerSpeed)
+        {
+            animator.SetBool("isDangerSpeed", true);
+        }
+        else
+        {
+            animator.SetBool("isDangerSpeed", false);
+        }
 
         if (Input.GetKey(KeyCode.A))
         {
@@ -93,14 +104,29 @@ public class Player : MonoBehaviour {
         }
     }
 
-    void Crash()
+    public void Crash()
     {
+        Debug.Log("Crash");
+        StopJet();
+        gameObject.SetActive(false);
+        if (Life > 1)
+        {
+            Invoke("Reset", 1);  
+        }
+        else
+        {
+            Invoke("GameOver", 1);
+        }
+    }
 
+    private void GameOver()
+    {
+        GameMain.Instance.GameOver();
     }
 
     private void Reset()
     {
-        transform.position = GameMain.Instance.StartPosition;
-    }
+        GameMain.Instance.ResetPlayer();
+    }   
 
 }

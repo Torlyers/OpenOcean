@@ -386,6 +386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   StartPosition: {x: -1.56, y: 5.42, z: 0}
+  TotalWealth: 0
 --- !u!82 &390961126
 AudioSource:
   m_ObjectHideFlags: 0
@@ -655,7 +656,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 158, y: -255.00002}
+  m_AnchoredPosition: {x: 94, y: -138}
   m_SizeDelta: {x: 20.25, y: 112.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &560397273
@@ -706,6 +707,7 @@ GameObject:
   - component: {fileID: 781567746}
   - component: {fileID: 781567745}
   - component: {fileID: 781567744}
+  - component: {fileID: 781567747}
   m_Layer: 0
   m_Name: Terrain
   m_TagString: Untagged
@@ -1387,6 +1389,17 @@ Transform:
   m_Father: {fileID: 1159979238}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &781567747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 781567743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75778606d09374c4089d174249a9ec71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &820578882
 GameObject:
   m_ObjectHideFlags: 0
@@ -1463,7 +1476,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 500050865
+  randomSeed: -323834682
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4763,7 +4776,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149, y: -292.2}
+  m_AnchoredPosition: {x: -93, y: -175.20001}
   m_SizeDelta: {x: 40.5, y: 40.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &943554443
@@ -5083,10 +5096,11 @@ MonoBehaviour:
   Fuel: 0
   FuelConsumeRate: 100
   speed: 0
-  DangerSpeed: 50
+  DangerSpeed: 20
   Force: 1
   AngForce: 1
   JetParticle: {fileID: 820578883}
+  animator: {fileID: 0}
 --- !u!95 &1286546293
 Animator:
   serializedVersion: 3
@@ -5348,7 +5362,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 158, y: -255}
+  m_AnchoredPosition: {x: 94, y: -137.99998}
   m_SizeDelta: {x: 20.25, y: 112.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1569132030
@@ -5416,7 +5430,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000002861, y: 301}
+  m_AnchoredPosition: {x: 0.000002861, y: 184}
   m_SizeDelta: {x: 85.2, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1668639172
@@ -5490,7 +5504,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149, y: -212}
+  m_AnchoredPosition: {x: -93, y: -95}
   m_SizeDelta: {x: 40.5, y: 40.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1717624762
@@ -5685,7 +5699,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -149, y: -252}
+  m_AnchoredPosition: {x: -93, y: -135}
   m_SizeDelta: {x: 40.5, y: 40.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1892563511

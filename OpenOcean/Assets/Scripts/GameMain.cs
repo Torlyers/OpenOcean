@@ -6,8 +6,9 @@ public class GameMain : MonoBehaviour {
 
     public static GameMain Instance;
     public Vector3 StartPosition;
-
     public int TotalWealth;
+
+    private Player player;
 
 
     private void Awake()
@@ -19,6 +20,7 @@ public class GameMain : MonoBehaviour {
     void Start ()
     {
         TotalWealth = 0;
+        player = Player.Instance;
 	}
 	
 	// Update is called once per frame
@@ -27,5 +29,30 @@ public class GameMain : MonoBehaviour {
 		
 	}
 
+    public void GameStart()
+    {
+
+    }
+
+
+    public void GameOver()
+    {
+
+    }
+
+    public void ResetGame()
+    {
+        
+    }
+
+    public void ResetPlayer()
+    {
+        player.gameObject.SetActive(true);
+        player.transform.position = StartPosition;
+        player.Life -= 1;
+        player.animator.SetInteger("Life", player.Life);
+        player.animator.SetBool("isDangerSpeed", false);
+        
+    }
 
 }
