@@ -7,6 +7,8 @@ public class GameMain : MonoBehaviour {
     public static GameMain Instance;
     public Vector3 StartPosition;
 
+    public int TotalWealth;
+
 
     private void Awake()
     {
@@ -16,7 +18,7 @@ public class GameMain : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
-        
+        TotalWealth = 0;
 	}
 	
 	// Update is called once per frame

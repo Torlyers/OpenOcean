@@ -93,9 +93,14 @@ public class Player : MonoBehaviour {
         }
     }
 
-    
+    void Crash()
+    {
 
+    }
 
-
+    private void Reset()
+    {
+        transform.position = GameMain.Instance.StartPosition;
+    }
 
 }
