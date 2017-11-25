@@ -5073,7 +5073,7 @@ Transform:
   m_GameObject: {fileID: 1286546287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.56, y: 5.42, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 820578885}
   m_Father: {fileID: 0}
@@ -5094,13 +5094,14 @@ MonoBehaviour:
   Wealth: 0
   MaxFuel: 3000
   Fuel: 0
-  FuelConsumeRate: 100
+  FuelConsumeRate: 50
   speed: 0
-  DangerSpeed: 20
-  Force: 1
+  DangerSpeed: 60
+  Force: 4
   AngForce: 1
   JetParticle: {fileID: 820578883}
   animator: {fileID: 0}
+  SpeedUI: {fileID: 0}
 --- !u!95 &1286546293
 Animator:
   serializedVersion: 3
