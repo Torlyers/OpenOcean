@@ -6,16 +6,25 @@ public class Player : MonoBehaviour {
 
     public static Player Instance;
 
+    [HideInInspector]
     public int Life;
+
+    [HideInInspector]
     public int Wealth;
+
     public float MaxFuel;
+    [HideInInspector]
     public float Fuel;
 
+    [HideInInspector]
     public int FuelConsumeRate;
+    public int MaxConsumeRate;
 
+    [HideInInspector]
     public int speed;
     public int DangerSpeed;
     private Rigidbody2D Rb2D;
+
 
     public float Force;
     public float AngForce;
@@ -85,12 +94,14 @@ public class Player : MonoBehaviour {
             JetParticle.Simulate(0);
             JetParticle.Play();
         }
+        FuelConsumeRate = MaxConsumeRate;
 
     }
 
     void StopJet()
     {
         JetParticle.Stop();
+        FuelConsumeRate = 0;
     }
 
     void Rotate(bool AngDirec)//1 for clockwise
