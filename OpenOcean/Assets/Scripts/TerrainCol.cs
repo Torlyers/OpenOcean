@@ -20,6 +20,7 @@ public class TerrainCol : MonoBehaviour {
         {
             if (Player.Instance.speed > Player.Instance.DangerSpeed)
                 Player.Instance.Crash();
+            
         }
     }
 }

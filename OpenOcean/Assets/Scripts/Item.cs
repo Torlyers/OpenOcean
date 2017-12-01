@@ -6,15 +6,19 @@ using UnityEngine.UI;
 public class Item : MonoBehaviour {
 
     public ItemCat ItemClass;
-    public int Value;
-
-    public Text MoneyText;
+    public int Value;    
 
 	// Use this for initialization
 	void Start ()
     {
         if (ItemClass == ItemCat.Chest)
+        {
+            Text MoneyText;
+            MoneyText = gameObject.GetComponentInChildren<Text>();
             MoneyText.text = Value.ToString();
+        }
+            
+        
 	}
 	
 	// Update is called once per frame

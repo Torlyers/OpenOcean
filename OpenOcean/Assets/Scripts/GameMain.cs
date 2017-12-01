@@ -1,15 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameMain : MonoBehaviour {
 
     public static GameMain Instance;
     public Vector3 StartPosition;
     public int TotalWealth;
+    public MainCanvas mainCanvas;
 
     private Player player;
-
 
     private void Awake()
     {
@@ -21,6 +22,7 @@ public class GameMain : MonoBehaviour {
     {
         TotalWealth = 0;
         player = Player.Instance;
+        SetMenu();
 	}
 	
 	// Update is called once per frame
@@ -29,14 +31,20 @@ public class GameMain : MonoBehaviour {
 		
 	}
 
+    public void SetMenu()
+    {
+        mainCanvas.SwitchPanel(mainCanvas.EndPanel, mainCanvas.StartPanel);
+    }
+
     public void GameStart()
     {
-
+        mainCanvas.SwitchPanel(mainCanvas.StartPanel, mainCanvas.MainPanel);
     }
 
 
     public void GameOver()
     {
+        mainCanvas.SwitchPanel(mainCanvas.MainPanel, mainCanvas.EndPanel);
 
     }
 
