@@ -1,16 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class Player : MonoBehaviour {
 
     public static Player Instance;
 
-    [HideInInspector]
+   // [HideInInspector]
     public int Life;
 
     [HideInInspector]
     public int Wealth;
+    [HideInInspector]
+    public int TotalWealth;
 
     public float MaxFuel;
     [HideInInspector]
@@ -32,8 +35,10 @@ public class Player : MonoBehaviour {
     private float rotate;
 
     public ParticleSystem JetParticle;
+    [HideInInspector]
     public Animator animator;
     public GameObject SpeedUI;
+    public GameObject ExplosionSS;
 
     private void Awake()
     {
@@ -42,6 +47,7 @@ public class Player : MonoBehaviour {
 
     void Start ()
     {
+        Life = 3;
         Fuel = MaxFuel;
         speed = 0;
         rotate = 0;
@@ -117,8 +123,14 @@ public class Player : MonoBehaviour {
     }
 
     public void Crash()
-    { 
-        gameObject.SetActive(false);
+    {
+        var item= Instantiate(ExplosionSS);
+        item.transform.position = transform.position;
+        
+
+        gameObject.SetActive(false);      
+        
+        
         if (Life > 1)
         {
             Invoke("Reset", 1);  

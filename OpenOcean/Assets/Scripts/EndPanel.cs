@@ -16,7 +16,7 @@ public class EndPanel : MonoBehaviour {
 
     public void Restart()
     {
-        GameMain.Instance.ResetGame();
+        GameMain.Instance.GameStart();
     }
     
     public void BackToStart()

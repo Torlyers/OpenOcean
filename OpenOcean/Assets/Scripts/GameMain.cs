@@ -38,6 +38,8 @@ public class GameMain : MonoBehaviour {
 
     public void GameStart()
     {
+        
+        mainCanvas.CloseAllPanels();
         mainCanvas.SwitchPanel(mainCanvas.StartPanel, mainCanvas.MainPanel);
     }
 
@@ -45,12 +47,13 @@ public class GameMain : MonoBehaviour {
     public void GameOver()
     {
         mainCanvas.SwitchPanel(mainCanvas.MainPanel, mainCanvas.EndPanel);
-
     }
 
     public void ResetGame()
     {
         ResetPlayer();
+        player.Life = 3;
+        player.TotalWealth = 0;        
     }
 
     public void ResetPlayer()
@@ -62,6 +65,7 @@ public class GameMain : MonoBehaviour {
             player.Life = 3;        
         player.animator.SetInteger("Life", player.Life);
         player.animator.SetBool("isDangerSpeed", false);
+        player.Wealth = 0;
     }
 
 }

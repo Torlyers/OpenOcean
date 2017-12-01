@@ -1,9 +1,80 @@
 fileFormatVersion: 2
 guid: 77b783bb800edff4c844e987f48d776c
-timeCreated: 1511235877
+timeCreated: 1512150549
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: VFX_ExplosionSpriteSheet 85x200 - 72_0
+    21300002: VFX_ExplosionSpriteSheet 85x200 - 72_1
+    21300004: VFX_ExplosionSpriteSheet 85x200 - 72_2
+    21300006: VFX_ExplosionSpriteSheet 85x200 - 72_3
+    21300008: VFX_ExplosionSpriteSheet 85x200 - 72_4
+    21300010: VFX_ExplosionSpriteSheet 85x200 - 72_5
+    21300012: VFX_ExplosionSpriteSheet 85x200 - 72_6
+    21300014: VFX_ExplosionSpriteSheet 85x200 - 72_7
+    21300016: VFX_ExplosionSpriteSheet 85x200 - 72_8
+    21300018: VFX_ExplosionSpriteSheet 85x200 - 72_9
+    21300020: VFX_ExplosionSpriteSheet 85x200 - 72_10
+    21300022: VFX_ExplosionSpriteSheet 85x200 - 72_11
+    21300024: VFX_ExplosionSpriteSheet 85x200 - 72_12
+    21300026: VFX_ExplosionSpriteSheet 85x200 - 72_13
+    21300028: VFX_ExplosionSpriteSheet 85x200 - 72_14
+    21300030: VFX_ExplosionSpriteSheet 85x200 - 72_15
+    21300032: VFX_ExplosionSpriteSheet 85x200 - 72_16
+    21300034: VFX_ExplosionSpriteSheet 85x200 - 72_17
+    21300036: VFX_ExplosionSpriteSheet 85x200 - 72_18
+    21300038: VFX_ExplosionSpriteSheet 85x200 - 72_19
+    21300040: VFX_ExplosionSpriteSheet 85x200 - 72_20
+    21300042: VFX_ExplosionSpriteSheet 85x200 - 72_21
+    21300044: VFX_ExplosionSpriteSheet 85x200 - 72_22
+    21300046: VFX_ExplosionSpriteSheet 85x200 - 72_23
+    21300048: VFX_ExplosionSpriteSheet 85x200 - 72_24
+    21300050: VFX_ExplosionSpriteSheet 85x200 - 72_25
+    21300052: VFX_ExplosionSpriteSheet 85x200 - 72_26
+    21300054: VFX_ExplosionSpriteSheet 85x200 - 72_27
+    21300056: VFX_ExplosionSpriteSheet 85x200 - 72_28
+    21300058: VFX_ExplosionSpriteSheet 85x200 - 72_29
+    21300060: VFX_ExplosionSpriteSheet 85x200 - 72_30
+    21300062: VFX_ExplosionSpriteSheet 85x200 - 72_31
+    21300064: VFX_ExplosionSpriteSheet 85x200 - 72_32
+    21300066: VFX_ExplosionSpriteSheet 85x200 - 72_33
+    21300068: VFX_ExplosionSpriteSheet 85x200 - 72_34
+    21300070: VFX_ExplosionSpriteSheet 85x200 - 72_35
+    21300072: VFX_ExplosionSpriteSheet 85x200 - 72_36
+    21300074: VFX_ExplosionSpriteSheet 85x200 - 72_37
+    21300076: VFX_ExplosionSpriteSheet 85x200 - 72_38
+    21300078: VFX_ExplosionSpriteSheet 85x200 - 72_39
+    21300080: VFX_ExplosionSpriteSheet 85x200 - 72_40
+    21300082: VFX_ExplosionSpriteSheet 85x200 - 72_41
+    21300084: VFX_ExplosionSpriteSheet 85x200 - 72_42
+    21300086: VFX_ExplosionSpriteSheet 85x200 - 72_43
+    21300088: VFX_ExplosionSpriteSheet 85x200 - 72_44
+    21300090: VFX_ExplosionSpriteSheet 85x200 - 72_45
+    21300092: VFX_ExplosionSpriteSheet 85x200 - 72_46
+    21300094: VFX_ExplosionSpriteSheet 85x200 - 72_47
+    21300096: VFX_ExplosionSpriteSheet 85x200 - 72_48
+    21300098: VFX_ExplosionSpriteSheet 85x200 - 72_49
+    21300100: VFX_ExplosionSpriteSheet 85x200 - 72_50
+    21300102: VFX_ExplosionSpriteSheet 85x200 - 72_51
+    21300104: VFX_ExplosionSpriteSheet 85x200 - 72_52
+    21300106: VFX_ExplosionSpriteSheet 85x200 - 72_53
+    21300108: VFX_ExplosionSpriteSheet 85x200 - 72_54
+    21300110: VFX_ExplosionSpriteSheet 85x200 - 72_55
+    21300112: VFX_ExplosionSpriteSheet 85x200 - 72_56
+    21300114: VFX_ExplosionSpriteSheet 85x200 - 72_57
+    21300116: VFX_ExplosionSpriteSheet 85x200 - 72_58
+    21300118: VFX_ExplosionSpriteSheet 85x200 - 72_59
+    21300120: VFX_ExplosionSpriteSheet 85x200 - 72_60
+    21300122: VFX_ExplosionSpriteSheet 85x200 - 72_61
+    21300124: VFX_ExplosionSpriteSheet 85x200 - 72_62
+    21300126: VFX_ExplosionSpriteSheet 85x200 - 72_63
+    21300128: VFX_ExplosionSpriteSheet 85x200 - 72_64
+    21300130: VFX_ExplosionSpriteSheet 85x200 - 72_65
+    21300132: VFX_ExplosionSpriteSheet 85x200 - 72_66
+    21300134: VFX_ExplosionSpriteSheet 85x200 - 72_67
+    21300136: VFX_ExplosionSpriteSheet 85x200 - 72_68
+    21300138: VFX_ExplosionSpriteSheet 85x200 - 72_69
+    21300140: VFX_ExplosionSpriteSheet 85x200 - 72_70
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -39,7 +110,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,9 +134,1019 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_10
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1000
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_22
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 800
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_31
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_35
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 600
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_46
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_47
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 400
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_56
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_57
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_58
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_59
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 200
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_67
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: VFX_ExplosionSpriteSheet 85x200 - 72_70
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 85
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

@@ -8,6 +8,7 @@ public class MainCanvas : MonoBehaviour {
     public GameObject StartPanel;
     public GameObject MainPanel;
     public GameObject EndPanel;
+    public GameObject ScorePanel;
     
     // Use this for initialization
 	void Start ()
@@ -15,6 +16,7 @@ public class MainCanvas : MonoBehaviour {
         StartPanel.SetActive(true);
         MainPanel.SetActive(false);
         EndPanel.SetActive(false);
+        ScorePanel.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -24,7 +26,25 @@ public class MainCanvas : MonoBehaviour {
 
     public void SwitchPanel(GameObject lastPanel, GameObject nextPanel)
     {
-        lastPanel.SetActive(false);
-        nextPanel.SetActive(true);
+        ClosePanel(lastPanel);
+        OpenPanel(nextPanel);
+    }
+
+    public void OpenPanel(GameObject panel)
+    {
+        panel.SetActive(true);
+    }
+
+    public void ClosePanel(GameObject panel)
+    {
+        panel.SetActive(false);
+    }
+
+    public void CloseAllPanels()
+    {
+        StartPanel.SetActive(false);
+        MainPanel.SetActive(false);
+        EndPanel.SetActive(false);
+        ScorePanel.SetActive(false);
     }
 }
