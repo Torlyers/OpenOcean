@@ -7776,7 +7776,7 @@ MonoBehaviour:
   FuelConsumeRate: 50
   MaxConsumeRate: 0
   speed: 0
-  DangerSpeed: 60
+  DangerSpeed: 10
   Force: 3
   AngForce: 0.5
   rotate: 0
@@ -9574,10 +9574,6 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1379565590027720, guid: 210a46c1cf2107a4890c86e20f5f21e6, type: 2}
-      propertyPath: m_Name
-      value: Canvas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 210a46c1cf2107a4890c86e20f5f21e6, type: 2}

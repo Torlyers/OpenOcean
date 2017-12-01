@@ -33,16 +33,15 @@ public class GameMain : MonoBehaviour {
 
     public void SetMenu()
     {
-        mainCanvas.SwitchPanel(mainCanvas.EndPanel, mainCanvas.StartPanel);
+        mainCanvas.CloseAllPanels();
+        mainCanvas.OpenPanel(mainCanvas.StartPanel);
     }
 
     public void GameStart()
-    {
-        
+    {        
         mainCanvas.CloseAllPanels();
         mainCanvas.SwitchPanel(mainCanvas.StartPanel, mainCanvas.MainPanel);
     }
-
 
     public void GameOver()
     {
