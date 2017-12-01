@@ -32,7 +32,7 @@ public class Player : MonoBehaviour {
     public float Force;
     public float AngForce;
 
-    private float rotate;
+    public float rotate;
 
     public ParticleSystem JetParticle;
     [HideInInspector]
@@ -54,6 +54,7 @@ public class Player : MonoBehaviour {
         Rb2D = GetComponent<Rigidbody2D>();
         JetParticle.Simulate(0);
         animator = GetComponent<Animator>();
+        FuelConsumeRate = 0;
         
 	}
 	
@@ -61,7 +62,9 @@ public class Player : MonoBehaviour {
     {
         Fuel -= FuelConsumeRate * Time.deltaTime;
         speed = (int)(Rb2D.velocity.magnitude * 10);
-        rotate = gameObject.transform.eulerAngles.z;
+        rotate = transform.eulerAngles.z;
+        if (rotate > 180f)
+            rotate -= 360f;
 
         if(speed > DangerSpeed)
         {
@@ -94,7 +97,8 @@ public class Player : MonoBehaviour {
 
     void Jet()
     {
-        Rb2D.AddForce(new Vector2(Mathf.Sin(rotate) * Force, Mathf.Cos(rotate) * Force));
+        
+        Rb2D.AddForce(new Vector2(-Mathf.Sin(rotate) * Force, Mathf.Cos(rotate) * Force), ForceMode2D.Impulse);
         if (!JetParticle.isPlaying)
         {
             JetParticle.Simulate(0);
@@ -114,11 +118,13 @@ public class Player : MonoBehaviour {
     {
         if(!AngDirec)
         {
-            Rb2D.AddTorque(AngForce);
+            transform.eulerAngles += new Vector3(0, 0, 2f);
+            //Rb2D.AddTorque(AngForce);
         }
         else
         {
-            Rb2D.AddTorque(-AngForce);
+            transform.eulerAngles += new Vector3(0, 0, -2f);
+            //Rb2D.AddTorque(-AngForce);
         }
     }
 
