@@ -7645,10 +7645,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1286546291}
   - component: {fileID: 1286546290}
-  - component: {fileID: 1286546289}
   - component: {fileID: 1286546288}
   - component: {fileID: 1286546292}
   - component: {fileID: 1286546293}
+  - component: {fileID: 1286546289}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -7667,17 +7667,17 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 3
+  m_Mass: 1
   m_LinearDrag: 0.1
   m_AngularDrag: 0.2
   m_GravityScale: 0.1
   m_Material: {fileID: 0}
-  m_Interpolate: 0
+  m_Interpolate: 2
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
---- !u!70 &1286546289
-CapsuleCollider2D:
+--- !u!61 &1286546289
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -7688,9 +7688,19 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.0026504993}
-  m_Size: {x: 0.5445838, y: 0.82928324}
-  m_Direction: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.64, y: 0.93}
+    newSize: {x: 0.64, y: 0.93}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.64, y: 0.93}
+  m_EdgeRadius: 0
 --- !u!212 &1286546290
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7768,7 +7778,9 @@ MonoBehaviour:
   speed: 0
   DangerSpeed: 60
   Force: 3
-  AngForce: 0.1
+  AngForce: 0.5
+  rotate: 0
+  radius: 0
   JetParticle: {fileID: 820578883}
   animator: {fileID: 0}
   SpeedUI: {fileID: 467355874}

@@ -33,6 +33,7 @@ public class Player : MonoBehaviour {
     public float AngForce;
 
     public float rotate;
+    public float radius;
 
     public ParticleSystem JetParticle;
     [HideInInspector]
@@ -65,8 +66,9 @@ public class Player : MonoBehaviour {
         rotate = transform.eulerAngles.z;
         if (rotate > 180f)
             rotate -= 360f;
+        radius = rotate * Mathf.PI / 180f;
 
-        if(speed > DangerSpeed)
+        if (speed > DangerSpeed)
         {
             animator.SetBool("isDangerSpeed", true);
         }
@@ -89,7 +91,7 @@ public class Player : MonoBehaviour {
             Jet();
         }
 
-        if(Input.GetKeyUp(KeyCode.J))
+        if (Input.GetKeyUp(KeyCode.J))
         {
             StopJet();
         }
@@ -97,8 +99,8 @@ public class Player : MonoBehaviour {
 
     void Jet()
     {
-        
-        Rb2D.AddForce(new Vector2(-Mathf.Sin(rotate) * Force, Mathf.Cos(rotate) * Force), ForceMode2D.Impulse);
+
+        Rb2D.AddForce(new Vector2(-Mathf.Sin(radius) * Force, Mathf.Cos(radius) * Force));
         if (!JetParticle.isPlaying)
         {
             JetParticle.Simulate(0);
@@ -118,13 +120,13 @@ public class Player : MonoBehaviour {
     {
         if(!AngDirec)
         {
-            transform.eulerAngles += new Vector3(0, 0, 2f);
-            //Rb2D.AddTorque(AngForce);
+            //transform.eulerAngles += new Vector3(0, 0, 2f);
+            Rb2D.AddTorque(AngForce);
         }
         else
         {
-            transform.eulerAngles += new Vector3(0, 0, -2f);
-            //Rb2D.AddTorque(-AngForce);
+            //transform.eulerAngles += new Vector3(0, 0, -2f);
+            Rb2D.AddTorque(-AngForce);
         }
     }
 
