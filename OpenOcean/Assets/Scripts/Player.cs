@@ -40,6 +40,7 @@ public class Player : MonoBehaviour {
     public Animator animator;
     public GameObject SpeedUI;
     public GameObject ExplosionSS;
+    public GameObject Tomb;
 
     private void Awake()
     {
@@ -88,13 +89,26 @@ public class Player : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.J))
         {
-            Jet();
+            if (Fuel > 0) 
+                Jet();
         }
 
-        if (Input.GetKeyUp(KeyCode.J))
+        if (Input.GetKeyUp(KeyCode.J) || Fuel <= 0)
         {
             StopJet();
         }
+
+        if(Input.touchCount != 0 && Input.touches[0].phase == TouchPhase.Began)
+        {
+            if (Fuel > 0)
+                Jet();
+        }
+
+        if (Input.touchCount != 0 && Input.touches[0].phase == TouchPhase.Ended)
+        {
+            StopJet();
+        }
+
     }
 
     void Jet()
@@ -134,19 +148,26 @@ public class Player : MonoBehaviour {
     {
         var item= Instantiate(ExplosionSS);
         item.transform.position = transform.position;
-        
+        GameMain.Instance.MainCamera.DOShakePosition(0.3f); 
 
-        gameObject.SetActive(false);      
-        
+        gameObject.SetActive(false);         
         
         if (Life > 1)
         {
+            SetTomb();
             Invoke("Reset", 1);  
         }
         else
         {
             Invoke("GameOver", 1);
         }
+    }
+
+    public void SetTomb()
+    {
+        var tomb = Instantiate(Tomb);
+        tomb.transform.position = transform.position;
+        
     }
 
     private void GameOver()

@@ -1,9 +1,129 @@
 fileFormatVersion: 2
 guid: 99224c7995920464fac84706792f866b
-timeCreated: 1511235903
+timeCreated: 1512364875
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: GUI_endingSpriteSheet 520x900 120_0
+    21300002: GUI_endingSpriteSheet 520x900 120_1
+    21300004: GUI_endingSpriteSheet 520x900 120_2
+    21300006: GUI_endingSpriteSheet 520x900 120_3
+    21300008: GUI_endingSpriteSheet 520x900 120_4
+    21300010: GUI_endingSpriteSheet 520x900 120_5
+    21300012: GUI_endingSpriteSheet 520x900 120_6
+    21300014: GUI_endingSpriteSheet 520x900 120_7
+    21300016: GUI_endingSpriteSheet 520x900 120_8
+    21300018: GUI_endingSpriteSheet 520x900 120_9
+    21300020: GUI_endingSpriteSheet 520x900 120_10
+    21300022: GUI_endingSpriteSheet 520x900 120_11
+    21300024: GUI_endingSpriteSheet 520x900 120_12
+    21300026: GUI_endingSpriteSheet 520x900 120_13
+    21300028: GUI_endingSpriteSheet 520x900 120_14
+    21300030: GUI_endingSpriteSheet 520x900 120_15
+    21300032: GUI_endingSpriteSheet 520x900 120_16
+    21300034: GUI_endingSpriteSheet 520x900 120_17
+    21300036: GUI_endingSpriteSheet 520x900 120_18
+    21300038: GUI_endingSpriteSheet 520x900 120_19
+    21300040: GUI_endingSpriteSheet 520x900 120_20
+    21300042: GUI_endingSpriteSheet 520x900 120_21
+    21300044: GUI_endingSpriteSheet 520x900 120_22
+    21300046: GUI_endingSpriteSheet 520x900 120_23
+    21300048: GUI_endingSpriteSheet 520x900 120_24
+    21300050: GUI_endingSpriteSheet 520x900 120_25
+    21300052: GUI_endingSpriteSheet 520x900 120_26
+    21300054: GUI_endingSpriteSheet 520x900 120_27
+    21300056: GUI_endingSpriteSheet 520x900 120_28
+    21300058: GUI_endingSpriteSheet 520x900 120_29
+    21300060: GUI_endingSpriteSheet 520x900 120_30
+    21300062: GUI_endingSpriteSheet 520x900 120_31
+    21300064: GUI_endingSpriteSheet 520x900 120_32
+    21300066: GUI_endingSpriteSheet 520x900 120_33
+    21300068: GUI_endingSpriteSheet 520x900 120_34
+    21300070: GUI_endingSpriteSheet 520x900 120_35
+    21300072: GUI_endingSpriteSheet 520x900 120_36
+    21300074: GUI_endingSpriteSheet 520x900 120_37
+    21300076: GUI_endingSpriteSheet 520x900 120_38
+    21300078: GUI_endingSpriteSheet 520x900 120_39
+    21300080: GUI_endingSpriteSheet 520x900 120_40
+    21300082: GUI_endingSpriteSheet 520x900 120_41
+    21300084: GUI_endingSpriteSheet 520x900 120_42
+    21300086: GUI_endingSpriteSheet 520x900 120_43
+    21300088: GUI_endingSpriteSheet 520x900 120_44
+    21300090: GUI_endingSpriteSheet 520x900 120_45
+    21300092: GUI_endingSpriteSheet 520x900 120_46
+    21300094: GUI_endingSpriteSheet 520x900 120_47
+    21300096: GUI_endingSpriteSheet 520x900 120_48
+    21300098: GUI_endingSpriteSheet 520x900 120_49
+    21300100: GUI_endingSpriteSheet 520x900 120_50
+    21300102: GUI_endingSpriteSheet 520x900 120_51
+    21300104: GUI_endingSpriteSheet 520x900 120_52
+    21300106: GUI_endingSpriteSheet 520x900 120_53
+    21300108: GUI_endingSpriteSheet 520x900 120_54
+    21300110: GUI_endingSpriteSheet 520x900 120_55
+    21300112: GUI_endingSpriteSheet 520x900 120_56
+    21300114: GUI_endingSpriteSheet 520x900 120_57
+    21300116: GUI_endingSpriteSheet 520x900 120_58
+    21300118: GUI_endingSpriteSheet 520x900 120_59
+    21300120: GUI_endingSpriteSheet 520x900 120_60
+    21300122: GUI_endingSpriteSheet 520x900 120_61
+    21300124: GUI_endingSpriteSheet 520x900 120_62
+    21300126: GUI_endingSpriteSheet 520x900 120_63
+    21300128: GUI_endingSpriteSheet 520x900 120_64
+    21300130: GUI_endingSpriteSheet 520x900 120_65
+    21300132: GUI_endingSpriteSheet 520x900 120_66
+    21300134: GUI_endingSpriteSheet 520x900 120_67
+    21300136: GUI_endingSpriteSheet 520x900 120_68
+    21300138: GUI_endingSpriteSheet 520x900 120_69
+    21300140: GUI_endingSpriteSheet 520x900 120_70
+    21300142: GUI_endingSpriteSheet 520x900 120_71
+    21300144: GUI_endingSpriteSheet 520x900 120_72
+    21300146: GUI_endingSpriteSheet 520x900 120_73
+    21300148: GUI_endingSpriteSheet 520x900 120_74
+    21300150: GUI_endingSpriteSheet 520x900 120_75
+    21300152: GUI_endingSpriteSheet 520x900 120_76
+    21300154: GUI_endingSpriteSheet 520x900 120_77
+    21300156: GUI_endingSpriteSheet 520x900 120_78
+    21300158: GUI_endingSpriteSheet 520x900 120_79
+    21300160: GUI_endingSpriteSheet 520x900 120_80
+    21300162: GUI_endingSpriteSheet 520x900 120_81
+    21300164: GUI_endingSpriteSheet 520x900 120_82
+    21300166: GUI_endingSpriteSheet 520x900 120_83
+    21300168: GUI_endingSpriteSheet 520x900 120_84
+    21300170: GUI_endingSpriteSheet 520x900 120_85
+    21300172: GUI_endingSpriteSheet 520x900 120_86
+    21300174: GUI_endingSpriteSheet 520x900 120_87
+    21300176: GUI_endingSpriteSheet 520x900 120_88
+    21300178: GUI_endingSpriteSheet 520x900 120_89
+    21300180: GUI_endingSpriteSheet 520x900 120_90
+    21300182: GUI_endingSpriteSheet 520x900 120_91
+    21300184: GUI_endingSpriteSheet 520x900 120_92
+    21300186: GUI_endingSpriteSheet 520x900 120_93
+    21300188: GUI_endingSpriteSheet 520x900 120_94
+    21300190: GUI_endingSpriteSheet 520x900 120_95
+    21300192: GUI_endingSpriteSheet 520x900 120_96
+    21300194: GUI_endingSpriteSheet 520x900 120_97
+    21300196: GUI_endingSpriteSheet 520x900 120_98
+    21300198: GUI_endingSpriteSheet 520x900 120_99
+    21300200: GUI_endingSpriteSheet 520x900 120_100
+    21300202: GUI_endingSpriteSheet 520x900 120_101
+    21300204: GUI_endingSpriteSheet 520x900 120_102
+    21300206: GUI_endingSpriteSheet 520x900 120_103
+    21300208: GUI_endingSpriteSheet 520x900 120_104
+    21300210: GUI_endingSpriteSheet 520x900 120_105
+    21300212: GUI_endingSpriteSheet 520x900 120_106
+    21300214: GUI_endingSpriteSheet 520x900 120_107
+    21300216: GUI_endingSpriteSheet 520x900 120_108
+    21300218: GUI_endingSpriteSheet 520x900 120_109
+    21300220: GUI_endingSpriteSheet 520x900 120_110
+    21300222: GUI_endingSpriteSheet 520x900 120_111
+    21300224: GUI_endingSpriteSheet 520x900 120_112
+    21300226: GUI_endingSpriteSheet 520x900 120_113
+    21300228: GUI_endingSpriteSheet 520x900 120_114
+    21300230: GUI_endingSpriteSheet 520x900 120_115
+    21300232: GUI_endingSpriteSheet 520x900 120_116
+    21300234: GUI_endingSpriteSheet 520x900 120_117
+    21300236: GUI_endingSpriteSheet 520x900 120_118
+    21300238: GUI_endingSpriteSheet 520x900 120_119
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -39,7 +159,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,9 +183,1705 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_2
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_3
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_4
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_6
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_7
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_8
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_9
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_10
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_11
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 8100
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_14
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_16
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_17
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_18
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_19
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_20
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_21
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_22
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_23
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 7200
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_27
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_28
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_29
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_30
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_31
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_32
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_33
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_34
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_35
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 6300
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_37
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_38
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_39
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_40
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_41
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_42
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_43
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_44
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_45
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_46
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_47
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 5400
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_49
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_50
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_52
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_53
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_54
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_55
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_56
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_57
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_58
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_59
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 4500
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_62
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_63
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_64
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_65
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_66
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_67
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_68
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_69
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_70
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_71
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 3600
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_74
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_75
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_76
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_77
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_78
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_79
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_80
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_81
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_82
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_83
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 2700
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_85
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_86
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_87
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_88
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_89
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_90
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_91
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_92
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_93
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_94
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_95
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1800
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_97
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_98
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_99
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_100
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_101
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_102
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_103
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_104
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_105
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_106
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_107
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 900
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_109
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_110
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_111
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_112
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_113
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_114
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_115
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_116
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_117
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_118
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GUI_endingSpriteSheet 520x900 120_119
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 0
+        width: 520
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

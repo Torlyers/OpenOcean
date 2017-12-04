@@ -17,6 +17,13 @@ public class Item : MonoBehaviour {
             MoneyText = gameObject.GetComponentInChildren<Text>();
             MoneyText.text = Value.ToString();
         }
+
+        else if(ItemClass == ItemCat.Tomb)
+        {
+            Text MoneyText;
+            MoneyText = gameObject.GetComponentInChildren<Text>();
+            MoneyText.text = Player.Instance.Wealth.ToString();
+        } 
             
         
 	}
@@ -47,7 +54,8 @@ public class Item : MonoBehaviour {
     {
         Coin,
         Chest,
-        fuelCan
+        fuelCan,
+        Tomb
     }
 
 

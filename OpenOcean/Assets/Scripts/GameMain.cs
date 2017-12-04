@@ -10,6 +10,8 @@ public class GameMain : MonoBehaviour {
     public int TotalWealth;
     public MainCanvas mainCanvas;
 
+    public Camera MainCamera;
+
     private Player player;
 
     private void Awake()
@@ -65,6 +67,7 @@ public class GameMain : MonoBehaviour {
         player.animator.SetInteger("Life", player.Life);
         player.animator.SetBool("isDangerSpeed", false);
         player.Wealth = 0;
+        player.Fuel = player.MaxFuel;
     }
 
 }
