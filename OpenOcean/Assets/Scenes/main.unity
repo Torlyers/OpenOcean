@@ -1037,6 +1037,8 @@ MonoBehaviour:
   TotalWealth: 0
   mainCanvas: {fileID: 727136218}
   MainCamera: {fileID: 1834748990}
+  audioClips:
+  - {fileID: 8300000, guid: 39d75897d016bb649bac195c1a2d650f, type: 3}
 --- !u!82 &390961126
 AudioSource:
   m_ObjectHideFlags: 0

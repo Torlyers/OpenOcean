@@ -37,7 +37,10 @@ public class Item : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Player")
         {
-            if(ItemClass == ItemCat.Chest || ItemClass == ItemCat.Coin)
+
+            GameMain.Instance.audioSource.PlayOneShot(GameMain.Instance.audioClips[0]);
+
+            if (ItemClass == ItemCat.Chest || ItemClass == ItemCat.Coin)
             {
                 Player.Instance.Wealth += Value;
             }

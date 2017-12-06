@@ -14,6 +14,9 @@ public class GameMain : MonoBehaviour {
 
     private Player player;
 
+    public AudioSource audioSource;
+    public List<AudioClip> audioClips;
+
     private void Awake()
     {
         Instance = this;
@@ -25,6 +28,7 @@ public class GameMain : MonoBehaviour {
         TotalWealth = 0;
         player = Player.Instance;
         SetMenu();
+        audioSource = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -40,21 +44,24 @@ public class GameMain : MonoBehaviour {
     }
 
     public void GameStart()
-    {        
+    {
+        ResetGame();
         mainCanvas.CloseAllPanels();
-        mainCanvas.SwitchPanel(mainCanvas.StartPanel, mainCanvas.MainPanel);
+        mainCanvas.SwitchPanel(mainCanvas.StartPanel, mainCanvas.MainPanel);        
     }
 
     public void GameOver()
     {
         mainCanvas.SwitchPanel(mainCanvas.MainPanel, mainCanvas.EndPanel);
+        audioSource.Stop();
     }
 
     public void ResetGame()
     {
         ResetPlayer();
         player.Life = 3;
-        player.TotalWealth = 0;        
+        player.TotalWealth = 0;
+        audioSource.Play();        
     }
 
     public void ResetPlayer()
