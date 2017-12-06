@@ -148,7 +148,8 @@ public class Player : MonoBehaviour {
     {
         var item= Instantiate(ExplosionSS);
         item.transform.position = transform.position;
-        GameMain.Instance.MainCamera.DOShakePosition(0.3f); 
+        GameMain.Instance.MainCamera.DOShakePosition(0.3f);
+        Wealth = 0;
 
         gameObject.SetActive(false);         
         

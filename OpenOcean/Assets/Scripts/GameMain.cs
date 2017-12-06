@@ -66,7 +66,7 @@ public class GameMain : MonoBehaviour {
             player.Life = 3;        
         player.animator.SetInteger("Life", player.Life);
         player.animator.SetBool("isDangerSpeed", false);
-        player.Wealth = 0;
+        
         player.Fuel = player.MaxFuel;
     }
 
