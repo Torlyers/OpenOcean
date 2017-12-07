@@ -21,7 +21,7 @@ public class SpeedUI : MonoBehaviour {
     {
         gameObject.transform.position = new Vector3(aim.position.x + 1, aim.position.y + 1, gameObject.transform.position.z);
         SpeedText.text = Player.Instance.speed.ToString();
-
+        //gameObject.transform.localEulerAngles = new Vector3(0, 0, 0);
     
 	}
 }
